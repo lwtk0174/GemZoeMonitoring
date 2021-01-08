@@ -4,7 +4,7 @@
 
 Het installeren van Zabbix kan zowel op een server of als een losstaande virtuele machine. Op de website van Zabbix zijn verschillende keuzes te vinden afhankelijk van de wensen. 
 
-Downloadlink: 
+#####Downloadlink: 
 
 https://www.zabbix.com/download 
 
@@ -13,7 +13,7 @@ https://www.zabbix.com/download
 ## Verschillende besturingssystemen 
 
  
-
+![afbeelding1](https://i.imgur.com/Y5SzfmL.png)
  
 
 Pagina-einde 
