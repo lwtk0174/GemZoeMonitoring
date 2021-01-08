@@ -4,7 +4,7 @@
 
 Het installeren van Zabbix kan zowel op een server of als een losstaande virtuele machine. Op de website van Zabbix zijn verschillende keuzes te vinden afhankelijk van de wensen. 
 
-#####Downloadlink: 
+##### Downloadlink
 
 https://www.zabbix.com/download 
 
@@ -16,7 +16,7 @@ https://www.zabbix.com/download
 
  
 
-Pagina-einde 
+
 
 Zabbix kan gedownload worden voor verschillende besturingssystemen, waarbij hierboven vooral Linux machines te zien zijn. Ook kan zabbix als een voorbereide appliance gedownload worden. Deze hoeft vervolgens alleen maar ingeladen te worden in een virtualisatieprogramma (Zoals Oracle Virtualbox of Microsoft Hyper-V) 
 
