@@ -1,6 +1,6 @@
 # GemZoeMonitoring
 
-Installeren van Zabbix 
+## Installeren van Zabbix 
 
 Het installeren van Zabbix kan zowel op een server of als een losstaande virtuele machine. Op de website van Zabbix zijn verschillende keuzes te vinden afhankelijk van de wensen. 
 
@@ -10,7 +10,7 @@ https://www.zabbix.com/download
 
  
 
-Verschillende besturingssystemen 
+## Verschillende besturingssystemen 
 
  
 
@@ -24,7 +24,7 @@ Zabbix kan gedownload worden voor verschillende besturingssystemen, waarbij hier
 
  
 
-Inloggen 
+### Inloggen 
 
 Wanneer Zabbix is geinstalleerd kan er met de volgende credentials worden ingelogd: 
 
